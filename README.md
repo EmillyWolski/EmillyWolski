@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 
 
 ##### ✨ Iniciei meus estudos em Desenvlvimento Web Front-end em janeiro de 2022 e desde então busco aprender cada vez mais. 
-##### 💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado no desenvolvimento de iniciantes.
-##### 🚩 Meu objetivo é desenvolver habilidades e aproveitar as oportunidades com foco em conquistar uma vaga na área de Front-end! 
+##### 💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado na capacitação de iniciantes.
+##### 🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área.
 
  <div>
   <a href="https://github.com/EmillyWolski">
