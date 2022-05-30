@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao meu perfil! 
 
-##### ✨ Iniciei meus estudos em Desenvlvimento Web Front-end em janeiro de 2022 e desde então busco aprender cada vez mais. 
-##### 💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado na capacitação de iniciantes.
-##### 🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área.
+✨ Iniciei meus estudos em Desenvlvimento Web Front-end em janeiro de 2022 e desde então busco aprender cada vez mais. <br>
+<br>
+💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado na capacitação de iniciantes. <br>
+<br>
+🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área.
 
  <div>
   <a href="https://github.com/EmillyWolski">
@@ -10,10 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyWolski&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="center" title="Javascript"alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML"alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS"alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Git"alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" title="Vs Code"alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
 </div>
  
  <br>
