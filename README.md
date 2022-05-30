@@ -2,9 +2,9 @@
 
 ✨ Iniciei meus estudos em Desenvlvimento Web Front-end em janeiro de 2022 e desde então busco aprender cada vez mais. <br>
 <br>
+🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área. <br>
+
 💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado na capacitação de iniciantes. <br>
-<br>
-🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área.
 
  <div>
   <a href="https://github.com/EmillyWolski">
