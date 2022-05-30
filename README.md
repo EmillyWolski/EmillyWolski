@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 
 
-✨ Iniciei meus estudos em Desenvlvimento Web Front-end em janeiro de 2022 e desde então busco aprender cada vez mais. <br>
+✨ Iniciei meus estudos em Desenvolvimento Web Frontend em janeiro de 2022 e desde então busco aprender cada vez mais. <br>
 <br>
 🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área. <br>
 
