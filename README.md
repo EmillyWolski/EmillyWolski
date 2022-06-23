@@ -4,7 +4,7 @@
 <br>
 🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área. <br>
 
-💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, além de    testes de software com Jest, biblioteca Redux e React.<br>
+💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, e em    testes de software com Jest, biblioteca Redux e React.<br>
 
  <div>
   <a href="https://github.com/EmillyWolski">
