@@ -2,7 +2,7 @@
 
 ✨ Iniciei meus estudos em Desenvolvimento Web Frontend em 2022 e desde então busco aprender cada vez mais. <br>
 <br>
-🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar profissionalmente na área. <br>
+🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar com qualidade. <br>
 
 💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, e em    testes de software com Jest, biblioteca Redux e React. Também tenho interesse em desenvolver habilidades para utilizar tecnologias voltadas à Análise de Dados.<br>
 
