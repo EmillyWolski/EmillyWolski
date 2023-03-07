@@ -1,10 +1,16 @@
 ## Bem-vindo(a) ao meu perfil! 
+ <p>
+   ✨ Valorizo muito o aprendizado e a melhoraria constante, tanto no âmbito pessoal quanto profissional. <br>
+   🚩 Meu objetivo é desenvolver habilidades técnicas voltadas a programação e evoluir gradativamente para poder atuar com qualidade.
+ </p>
 
-✨ Iniciei meus estudos em Desenvolvimento Web Frontend em 2022 e desde então busco aprender cada vez mais. <br>
+### Formação
+<p>
+ Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, e em     testes de software com Jest, biblioteca Redux e React.
+
+  Também tenho interesse em desenvolver habilidades para utilizar tecnologias voltadas à <strong>Análise de Dados</strong>, e atualmete busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Hashtag Treinamentos.
+</p>
 <br>
-🚩 Meu objetivo é desenvolver habilidades e evoluir constantemente para poder atuar com qualidade. <br>
-
-💻 Além dos estudos em Análise e desenvolvimento de Sistemas na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, e em    testes de software com Jest, biblioteca Redux e React. Também tenho interesse em desenvolver habilidades para utilizar tecnologias voltadas à Análise de Dados.<br>
 
  <div>
   <a href="https://github.com/EmillyWolski">
