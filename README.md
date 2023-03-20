@@ -6,9 +6,7 @@
 
 ### Formação
 <p>
- Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, estudo no curso DevQuest que é focado em HTML, CSS e Javascript desde o básico ao avançado, e em     testes de software com Jest, biblioteca Redux e React.
-
-  Também tenho interesse em desenvolver habilidades para utilizar tecnologias voltadas à <strong>Análise de Dados</strong>, e atualmete busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Hashtag Treinamentos.
+Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, também me dedico para desenvolver habilidades voltadas à <strong>Análise de Dados</strong>. Atualmete busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Hashtag Treinamentos para utilizar diferentes tecnologias com cada vez mais relevância em diversos segmentos da sociedade. 
 </p>
 <br>
 
