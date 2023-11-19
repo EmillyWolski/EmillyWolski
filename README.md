@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! 
  <p>
    ✨ Valorizo muito o aprendizado e a melhoria constante, tanto no âmbito pessoal quanto profissional. <br>
-   🚩 Meu objetivo é desenvolver habilidades técnicas voltadas a programação e evoluir gradativamente para poder atuar com qualidade.
+   🚩 Meu objetivo é desenvolver habilidades técnicas voltadas à programação, e também habilidades comportamentais para evoluir gradativamente e atuar com qualidade e eficiência.
  </p>
 
 ### Formação
