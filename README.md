@@ -6,7 +6,7 @@
 
 ### Formação
 <p>
-Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, também me dedico para desenvolver habilidades voltadas à <strong>Análise de Dados</strong>. Atualmete busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Hashtag Treinamentos para utilizar diferentes tecnologias com cada vez mais relevância em diversos segmentos da sociedade. 
+Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, também me dedico para desenvolver habilidades voltadas à <strong>Análise de Dados</strong>. Atualmente busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Asimov Academy e Hashtag Treinamentos para utilizar diferentes tecnologias com cada vez mais relevância em diversos segmentos da sociedade. 
 </p>
 <br>
 
