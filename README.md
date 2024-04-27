@@ -6,7 +6,7 @@
 
 ### Formação
 <p>
-Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, também me dedico para desenvolver habilidades voltadas à <strong>Análise de Dados</strong> e <strong>Gestão de Projetos</strong>strong>. Atualmente busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Asimov Academy para utilizar tecnologias com cada vez mais relevância em diversos segmentos da sociedade.<br>
+Além dos estudos em <strong>Análise e desenvolvimento de Sistemas</strong> na UFPR, também me dedico para desenvolver habilidades voltadas à <strong>Análise de Dados</strong> e <strong>Gestão de Projetos</strong>. Atualmente busco conciliar os estudos da Universidade com o curso de <strong>Linguagem Pyhton</strong> da Asimov Academy para utilizar tecnologias com cada vez mais relevância em diversos segmentos da sociedade.<br>
  
 Os estudos permitem diferentes combinações, e uma das que mais gosto é a união das Metodologias Ágeis como Scrum e Kanban, aplicadas no desenvolvimento de processos, ou desenvolvimento de soluções tecnológicas. 
 </p>
